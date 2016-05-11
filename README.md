@@ -1,2 +1,2 @@
 # cysuite
-Some tools for effective development.
+Some tools for effective development
